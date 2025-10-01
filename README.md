@@ -8,6 +8,18 @@ Faculty of Computer and Information Science, University of Ljubljana
 
 [[`Preprint`](https://arxiv.org/abs/2411.17576)]  [[`Project page`](https://jovanavidenovic.github.io/dam-4-sam/) ] [[`DiDi dataset`](#didi-a-distractor-distilled-dataset)]
 
+</div>
+
+---
+
+## 📢 News
+An **extended version of the paper** with additional analysis (including VOS datasets) is now available on arXiv:  
+👉 [Distractor-Aware Memory-Based Visual Object Tracking](https://arxiv.org/abs/2509.13864)
+
+---
+<div align="center">
+    
+
 
 
 https://github.com/user-attachments/assets/ecfc1e20-0463-4841-876d-2202acc93f77
