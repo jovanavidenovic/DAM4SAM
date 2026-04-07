@@ -14,7 +14,8 @@ Faculty of Computer and Information Science, University of Ljubljana
 ---
 
 ## 📢 News
-**Extended version of CVPR paper has been accepted in International Journal of Computer Vision (IJCV)** 
+**Extended version of CVPR paper has been accepted in International Journal of Computer Vision (IJCV)**
+👉 [Full paper](https://rdcu.be/fb3Rd) and [IJCV page](https://link.springer.com/article/10.1007/s11263-026-02790-7) 
 
 **Multi-target version of DAM4SAM** is now available on: https://github.com/alanlukezic/d4sm
 
