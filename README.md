@@ -1,6 +1,7 @@
 <div align="center">
 
-# A Distractor-Aware Memory (DAM) for <br> Visual Object Tracking with SAM2 [CVPR, 2025]
+# A Distractor-Aware Memory (DAM) for <br> Visual Object Tracking with SAM2 
+## CVPR, 2025; IJCV, 2026
 
 [Jovana Videnović](https://www.linkedin.com/in/jovana-videnovi%C4%87-5a5b08169/), [Alan Lukežič](https://www.vicos.si/people/alan_lukezic/), and [Matej Kristan](https://www.vicos.si/people/matej_kristan/)
 
@@ -13,6 +14,8 @@ Faculty of Computer and Information Science, University of Ljubljana
 ---
 
 ## 📢 News
+**Extended version of CVPR paper has been accepted in International Journal of Computer Vision (IJCV)** 
+
 **Multi-target version of DAM4SAM** is now available on: https://github.com/alanlukezic/d4sm
 
 An **extended version of the paper** with additional analysis (including VOS datasets) is now available on arXiv:  
@@ -203,6 +206,15 @@ Please consider citing our paper if you found our work useful.
   title = {A Distractor-Aware Memory for Visual Object Tracking with {SAM2}},
   booktitle = {Comp. Vis. Patt. Recognition},
   year = {2025}
+}
+```
+
+```bibtex
+@InProceedings{dam4sam_ijcv,
+  author = {Videnovic, Jovana and Kristan, Matej and Lukezic, Alan},
+  title = {Distractor-Aware Memory-Based Visual Object Tracking},
+  booktitle = {International Journal of Computer Vision},
+  year = {2026}
 }
 ```
 
